@@ -2,7 +2,7 @@
 
 #
 opcion=""
-opcion2="" 
+opcion2=""
 
 nombresAgiles=('SCRUM' 'X.P' 'Kanban' 'Crystal')
 nombresTradicionales=('Cascada' 'Espiral' 'Modelo-V')
@@ -84,6 +84,6 @@ case $1 in
         ;;
 
     *)
-        echo "No es una opcion valida"
+        echo "No existe esa opcion"
         ;;
 esac
