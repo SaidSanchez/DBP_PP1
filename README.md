@@ -7,7 +7,7 @@ _Aplicacion sobre las diferentes metodologias de desarollo agil de software, uti
 
 ## Integrantes:
 * _1._
-* _2._
+* _2._Alan Said Sánchez Sausameda 307730
 * _3._
 * _4._
 
