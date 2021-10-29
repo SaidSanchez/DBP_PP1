@@ -17,3 +17,11 @@ Abrimos la terminal de preferencia, para ejecutarlo tenemos que estar en el dire
 ```
 cd carpeta/scripts/
 ```
+Si es la primera ves que se ejecuta se tendran que dar permisos al archivo
+```
+sudo chmod +x "archivo".sh
+```
+Luego se ejecuta ahi mismo
+```
+./"archivo".sh
+```
