@@ -29,10 +29,10 @@ Luego se ejecuta ahi mismo
 ./"archivo".sh
 ```
 ## Authors:
-* _1._
-* _2._Alan Said Sánchez Sausameda 307730
-* _3._Jesica Yamile Salcido Cadena 329575
-* _4._David Alejandro Perez Rico 320753
+* 1. 
+* 2. **Alan Said Sánchez Sausameda** _307730_ - _Student_ [SaidSanchez] (https://github.com/SaidSanchez)
+* 3. **Jesica Yamile Salcido Cadena** _329575_ - _Student_ [JYSC] (https://github.com/JYSC)
+* 4. **David Alejandro Perez Rico** _320753_ - _Student_ [alexxrico] (https://github.com/alexxrico)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
