@@ -1,4 +1,6 @@
-[modelo cascada].- Es un procedimiento lineal que se caracteriza por dividir los procesos de desarrollo en sucesivas fases de proyecto.
-[fases del desarrollo].- Analisis, Diseño, Implementacion, Prueba, Servicio.
-[ventajas].- Una estructura sencilla gracias a unas fases de proyecto claramente diferenciadas; Buena documentación del proceso de desarrollo a través de unos hitos bien definidos; Los costes y la carga de trabajo se pueden estimar al comenzar el proyecto.
-[desventajas].- Por norma general, los proyectos más complejos o de varios niveles no permiten su división en fases de proyecto claramente diferenciadas; Poco margen para realizar ajustes a lo largo del proyecto debido a un cambio en las exigencias.
+echo $titulo
+((titulo= "metodologia cascada"))
+echo $descripcion
+((descripcion= "es un procedimiento lineal que se caracteriza por dividir los procesos de desarrollo en sucesivas fases de proyecto. Al contrario que en los modelos iterativos, cada una de estas fases se ejecuta tan solo una vez."))
+echo $ventajas
+((ventajas ="Una estructura sencilla gracias a unas fases de proyecto claramente diferenciadas."))
