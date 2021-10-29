@@ -4,8 +4,8 @@
 opcion=""
 opcion2=""
 
-nombresAgiles=('SCRUM' 'X.P' 'Kanban' 'Crystal')
-nombresTradicionales=('Cascada' 'Espiral' 'Modelo-V')
+nombresAgiles=('SCRUM' 'X_P' 'Kanban' 'Crystal')
+nombresTradicionales=('Cascada' 'Espiral' 'Modelo_V')
 #Menu Metodologias Agiles
 case $1 in
     -a|-A|a|A) #
