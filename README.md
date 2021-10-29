@@ -7,9 +7,9 @@ _Aplicacion sobre las diferentes metodologias de desarollo agil de software, uti
 
 ## Integrantes:
 * _1._
-* _2. Alan Said Sánchez Sausameda 307730_
-* _3. David Alejandro Perez Rico 320753_
-* _4._
+* _2._Alan Said Sánchez Sausameda 307730
+* _3._Jesica Yamile Salcido Cadena 329575
+* _4._David Alejandro Perez Rico 320753
 
 ## Funcionamiento:
 Abrimos la terminal de preferencia, para ejecutarlo tenemos que estar en el directorio donde se encuentra el archivo, por ejemplo:
