@@ -1,0 +1,6 @@
+echo $titulo
+((titulo= "Desarrollo Scrum"))
+echo $descripcion
+((descripcion= "Es un marco de trabajo para desarrollo ágil de software que se ha expandido a otras industrias.))
+echo $ventajas
+((ventajas ="Flexibilidad; Reduccion del time to market; Calidad de software; Mayor productividad; Predicciones de tiempos."))
