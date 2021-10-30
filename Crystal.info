@@ -1,6 +1,4 @@
-echo $titulo
-((titulo= "metodologia crystal"))
-echo $descripcion
-((descripcion= "es una familia de metodologías con un “código genético” común."))
-echo $ventajas
-((ventajas ="Como todas las metodologías ágiles, se basa en ciclos iterativos de desarrollo incremental, a lo que añade una reunión previa y posterior al ciclo, en la que reflexiona sobre el proyecto y sobre como ha ido ese ciclo. Antes de comenzar el siguiente ciclo al menos dos usuarios finales deben revisar, de forma independiente, lo desarrollado y validarlo."))
+
+[titulo].- metodologia crystal
+[descripcion].- es una familia de metodologías con un “código genético” común.
+[ventajas].- Como todas las metodologías ágiles, se basa en ciclos iterativos de desarrollo incremental, a lo que añade una reunión previa y posterior al ciclo, en la que reflexiona sobre el proyecto y sobre como ha ido ese ciclo. Antes de comenzar el siguiente ciclo al menos dos usuarios finales deben revisar, de forma independiente, lo desarrollado y validarlo.
