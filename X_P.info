@@ -1,6 +1,3 @@
-echo $titulo
-((titulo= "X.P"))
-echo $descripcion
-((descripcion= "es un marco de desarrollo de software ágil que tiene como objetivo producir un software de mayor calidad para mejorar la eficiencia del equipo de desarrollo.))
-echo $ventajas
-((ventajas ="Relación estrecha con el cliente; Ausencia de trabajos de programación innecesarios."))
+[titulo].-x.p
+[descripcion].-es un marco de desarrollo de software ágil que tiene como objetivo producir un software de mayor calidad para mejorar la eficiencia del equipo de desarrollo.
+[ventajas].-Relación estrecha con el cliente; Ausencia de trabajos de programación innecesarios.
