@@ -7,3 +7,4 @@ RUN apt-get update
 RUN apt-get install -y  
 
 CMD ["/bin/bash"]
+RUN ./ProyectoParcial1.sh

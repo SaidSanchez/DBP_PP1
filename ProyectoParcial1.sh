@@ -37,7 +37,7 @@ case $1 in
                             read -p "Introduzca el titulo del concepto: " titulo
                             echo ''
                             read -p "Agregue la definicion del concepto: " descripcion
-                            echo "[$titulo].- $descripcion" >> ./${nombresAgiles[opcion-1],,}.inf
+                            echo "[$titulo] .- $descripcion" >> ./${nombresAgiles[opcion-1],,}.inf
                             echo ''
                             echo ''
                             ;;
@@ -59,8 +59,9 @@ case $1 in
                             echo "ELIMINAR INFORMACION"
                             if [ -f ./${nombresAgiles[opcion-1],,}.inf ]
                             then
-                                rm ./${nombresAgiles[opcion-1],,}.inf
-                                echo "El archivo de ${nombresAgiles[opcion-1]} a sido eliminado"
+                                read -p "Ingrese el concepto que desea eliminar: " buscar
+                                sed -i "/$buscar/d" ${nombresAgiles[opcion-1],,}.inf
+                                echo "El dato a sido eliminado de ${nombresAgiles[opcion-1]}"
                             else
                                 echo "El archivo no existe"
                             fi
@@ -82,13 +83,7 @@ case $1 in
             esac
         done
         ;;
-
-    *)
-        echo "No existe esa opcion"
-        ;;
-esac
-case $2 in
-    -t|-T|t|T) #
+        -t|-T|t|T) #
         until [[ $opcion == "4" ]]; do
             echo
             echo "Bienvenido a la guía rápida de Metodologías Tradicionales, para continuar seleccione un tema:
@@ -116,9 +111,7 @@ case $2 in
                             read -p "Introduzca el titulo del concepto: " titulo
                             echo ''
                             read -p "Agregue la definicion del concepto: " descripcion
-                            echo "echo = $titulo" >> ./${nombresTradicionales[opcion-1],,}.inf
-                            echo "$titulo = [$titulo] .- $descripcion" >> ./${nombresTradicionales[opcion-1],,}.inf
-                            echo ''
+                            echo "[$titulo] .- $descripcion" >> ./${nombresTradicionales[opcion-1],,}.inf
                             echo ''
                             ;;
                         2)  echo "OPCION DE BUSCAR"
@@ -139,8 +132,9 @@ case $2 in
                             echo "ELIMINAR INFORMACION"
                             if [ -f ./${nombresTradicionales[opcion-1],,}.inf ]
                             then
-                                rm ./${nombresTradicionales[opcion-1],,}.inf
-                                echo "El archivo de ${nombresTradicionales[opcion-1]} a sido eliminado"
+                                read -p "Ingrese el concepto que desea eliminar: " buscar
+                                sed -i "/$buscar/d" ${nombresTradicionales[opcion-1],,}.inf
+                                echo "El dato a sido eliminado de ${nombresTradicionales[opcion-1]}"
                             else
                                 echo "El archivo no existe"
                             fi
