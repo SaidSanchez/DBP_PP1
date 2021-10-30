@@ -1,6 +1,3 @@
-echo $titulo
-((titulo= "metodologia cascada"))
-echo $descripcion
-((descripcion= "es un procedimiento lineal que se caracteriza por dividir los procesos de desarrollo en sucesivas fases de proyecto. Al contrario que en los modelos iterativos, cada una de estas fases se ejecuta tan solo una vez."))
-echo $ventajas
-((ventajas = "[Ventajas] .- Una estructura sencilla gracias a unas fases de proyecto claramente diferenciadas."))
+[titulo].- metodologia cascada
+[descripcion].- es un procedimiento lineal que se caracteriza por dividir los procesos de desarrollo en sucesivas fases de proyecto. Al contrario que en los modelos iterativos, cada una de estas fases se ejecuta tan solo una vez.
+[ventajas] .- Una estructura sencilla gracias a unas fases de proyecto claramente diferenciadas.
