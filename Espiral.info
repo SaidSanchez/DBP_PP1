@@ -1,6 +1,3 @@
-echo $titulo
-((titulo= "Desarrollo en espiral"))
-echo $descripcion
-((descripcion= "El modelo de desarrollo en Espiral es una combinación entre el modelo waterfall y un modelo por iteraciones."))
-echo $ventajas
-((ventajas ="La funcionalidad adicional o los cambios se pueden hacer en una etapa posterior; La estimación del coste se hace fácil, ya que la construcción del prototipo se hace en pequeños fragmentos."))
+[titulo].-Desarrollo en espiral
+[descripcion].- El modelo de desarrollo en Espiral es una combinación entre el modelo waterfall y un modelo por iteraciones.
+[ventajas].- La funcionalidad adicional o los cambios se pueden hacer en una etapa posterior; La estimación del coste se hace fácil, ya que la construcción del prototipo se hace en pequeños fragmentos.
