@@ -1,6 +1,3 @@
-echo $titulo
-((titulo= "metodologia kanban"))
-echo $descripcion
-((descripcion= "Esta metodología es muy sencilla, se puede actualizar y los equipos de trabajo la pueden asumir sin problema. Al ser un método visual permite que con un simple vistazo se conozca el estado de los proyectos y se puedan asignar nuevas tareas de manera muy efectiva. "))
-echo $ventajas
-((ventajas ="Transparencia; Evita tareas ineficientes; Control de las tareas; Flexibilidad."))
+[titulo].- metodologia kanban
+[descripcion].- Esta metodología es muy sencilla, se puede actualizar y los equipos de trabajo la pueden asumir sin problema. Al ser un método visual permite que con un simple vistazo se conozca el estado de los proyectos y se puedan asignar nuevas tareas de manera muy efectiva.
+[ventajas].-Transparencia; Evita tareas ineficientes; Control de las tareas; Flexibilidad.
