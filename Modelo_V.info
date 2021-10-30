@@ -1,6 +1,3 @@
-echo $titulo
-((titulo= "Modelo V"))
-echo $descripcion
-((descripcion= "Es un modelo empleado en diversos procesos de desarrollo, por ejemplo, en el desarrollo de software. "))
-echo $ventajas
-((ventajas ="Optimización de la comunicación entre las partes involucradas a través de términos y responsabilidades claramente definidos; Minimización de riesgos y mejor planificación a través de roles, estructuras y resultados fijos y predeterminados; Mejora de la calidad del producto gracias a medidas de control de la calidad firmemente integradas."))
+[titulo].- Modelo V
+[descripcion].-Es un modelo empleado en diversos procesos de desarrollo, por ejemplo, en el desarrollo de software.
+[ventajas].-Optimización de la comunicación entre las partes involucradas a través de términos y responsabilidades claramente definidos; Minimización de riesgos y mejor planificación a través de roles, estructuras y resultados fijos y predeterminados; Mejora de la calidad del producto gracias a medidas de control de la calidad firmemente integradas.
