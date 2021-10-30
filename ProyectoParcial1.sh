@@ -90,7 +90,7 @@ case $1 in
             1.-Cascada
             2.-Espiral
             3.-Modelo V
-            5.-Exit
+            4.-Exit
             "
             read -p "Ingrese la opcion: " opcion
             clear
