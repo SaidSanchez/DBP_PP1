@@ -41,7 +41,7 @@ Luego se ejecuta ahi mismo
 ## Running the test
 Ejemplos de como se ejecuta el programa
 ## Authors:
-* 
+* **Irvin Daniel Campos Valenzuela** _329762_-_Student_- [DanielCampos](https://gitlab.com/a329762)
 * **Alan Said Sánchez Sausameda** _307730_ - _Student_ - [SaidSanchez](https://github.com/SaidSanchez)
 * **Jesica Yamile Salcido Cadena** _329575_ - _Student_ - [JYSC](https://github.com/JYSC)
 * **David Alejandro Perez Rico** _320753_ - _Student_ - [alexxrico](https://github.com/alexxrico)

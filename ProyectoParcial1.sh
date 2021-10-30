@@ -116,7 +116,8 @@ case $2 in
                             read -p "Introduzca el titulo del concepto: " titulo
                             echo ''
                             read -p "Agregue la definicion del concepto: " descripcion
-                            echo "[$titulo].- $descripcion" >> ./${nombresTradicionales[opcion-1],,}.inf
+                            echo "echo = $titulo" >> ./${nombresTradicionales[opcion-1],,}.inf
+                            echo "$titulo = [$titulo] .- $descripcion" >> ./${nombresTradicionales[opcion-1],,}.inf
                             echo ''
                             echo ''
                             ;;
